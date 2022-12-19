@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **rpankaj8127@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1yIDzKKxe8vF-htnzcVFsG_LJybzOGA_g/view" target="_blank">Resume</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1hIi-BbePfhrBnhIjvdGTyo9M6t0DeFDY/view?usp=share_link" target="_blank">Resume</a>**
 
-- ⚡ My **<a href="https://myportfolio8954.netlify.app//" target="_blank">Portfolio</a>**
+- ⚡ My **<a href="https://webportfoliorpankaj.netlify.app//" target="_blank">Portfolio</a>**
 
 - ⚡ Fun fact **I like to use light themes for coding!**
 
