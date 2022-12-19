@@ -1,8 +1,8 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Desh Deepak Dhruv</h1>
-<h3 align="center">A passionate WEB Developer</h3>
+<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deshdeepak2019&label=Profile%20views&color=0e75b6&style=flat" alt="deshdeepak2019" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rPankaj05&label=Profile%20views&color=0e75b6&style=flat" alt="Pankaj Kumar" /> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
