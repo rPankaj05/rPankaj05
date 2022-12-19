@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **DataStructures & Algo,MERN**
 
-- 📫 How to reach me **deshdeepak.btech.iet@gmail.com**
+- 📫 How to reach me **rpankaj8127@gmail.com**
 
 - 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1yIDzKKxe8vF-htnzcVFsG_LJybzOGA_g/view" target="_blank">Resume</a>**
 
