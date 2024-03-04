@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **DataStructures & Algo,MERN**
+- 💬 Ask me about **DataStructures & Algo**
 
 - 📫 How to reach me **rpankaj8127@gmail.com**
 
