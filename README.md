@@ -14,7 +14,7 @@
 
 - ⚡ My **<a href="https://webportfoliorpankaj.netlify.app//" target="_blank">Portfolio</a>**
 
-- ⚡ Fun fact **I like to use light themes for coding!**
+- ⚡ Fun fact **I like to use dark themes for coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
